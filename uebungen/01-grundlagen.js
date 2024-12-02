@@ -13,7 +13,7 @@ let b = 2;
 console.log('Der Wert der Variablen a ist: ' + a);
 
 console.log('Aufgabe 2');
-console.log('Gib das Ergebnis der Addition von a und b aus.');
+console.log('Gib das Ergebnis von a und b aus.');
 
 // Wenn links oder rechts vom Plus-Operator ein String steht, wird verkettet.
 // Wenn links und rechts Zahlen stehen, wird addiert.
